@@ -29,4 +29,3 @@ Hobbies include:
 ### Spotify Now Playing
 [![Spotify](https://novatorem-wjia-git-master-wuaster.vercel.app/api/spotify)](https://open.spotify.com/user/4dxscv284232npijaa5a6h7k3)
 
-For more information about me, please check out my website [wuaster.netlify.app](https://wuaster.netlify.app)  
