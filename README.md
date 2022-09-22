@@ -4,13 +4,7 @@ I'm a Software Engineer at [Pinch Financial](https://www.pinchfinancial.com/) an
 
 I graduated with a Bachelor's in Computer Science from the [University of Toronto](https://www.utoronto.ca/) in 2022. 🏛️  
 
-In the past, I worked at [IBM](https://www.ibm.com/) and the Ontario Government. 👷‍♂️  
-
-<details> 
-  <summary>I've also taught basic computer programming on a volunteer basis to people of all ages. 📔</summary> 
-  
-
-</details>
+In the past, I worked at [IBM](https://www.ibm.com/) and the Ontario Government. 👷‍♂️
 
 
 My favourite technologies are:  
@@ -23,6 +17,12 @@ These are cool too!
 <div> 
   <img height="137px" src="https://github-readme-stats-kke4.vercel.app/api?username=wuaster&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
+
+Hobbies include:
+  - Crocheting :yarn:
+  - Playing my instruments :guitar:
+  - Listening to music :headphones:
+  - Video games :joystick:
 
 ### Spotify Now Playing
 [![Spotify](https://novatorem-wjia-git-master-wuaster.vercel.app/api/spotify)](https://open.spotify.com/user/4dxscv284232npijaa5a6h7k3)
