@@ -27,5 +27,5 @@ Hobbies include:
   - Video games :joystick:
 
 ### Spotify Now Playing
-[![Spotify](https://novatorem-wjia-git-master-wuaster.vercel.app/api/spotify)](https://open.spotify.com/user/4dxscv284232npijaa5a6h7k3)
+[![Spotify](https://novatorem-wjia-git-master-wuaster.vercel.app/api/spotify?background_color=04082e&border_color=7da3b5)](https://open.spotify.com/user/4dxscv284232npijaa5a6h7k3)
 
